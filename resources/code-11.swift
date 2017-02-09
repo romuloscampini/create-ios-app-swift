@@ -1,0 +1,1 @@
+self.performSegueWithIdentifier("segueTelaResultados", sender: nil);
